@@ -1,9 +1,12 @@
 __pycache__/
 *.pyc
 *.pyo
+*.pkl
+*.h5
+*.csv
+*.log
+.pytest_cache/
 *.egg-info/
-.eggs/
 dist/
 build/
-*.log
-backtest_result.json
+.backup/
